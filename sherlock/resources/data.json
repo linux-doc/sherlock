@@ -161,7 +161,11 @@
     "username_claimed": "test"
   },
   "Archive.org": {
-    "errorMsg": "could not fetch an account with user item identifier",
+    "__comment__": "'The resource could not be found' relates to archive downtime",
+    "errorMsg": [
+      "could not fetch an account with user item identifier",
+      "The resource could not be found"
+    ],
     "errorType": "message",
     "url": "https://archive.org/details/@{}",
     "urlMain": "https://archive.org",
@@ -586,14 +590,14 @@
     "username_claimed": "brown"
   },
   "CyberDefenders": {
-    "errorMsg": "<title>Online Cyber Security Blue Team Training - CyberDefenders</title>",
+    "errorMsg": "<title>Blue Team Training for SOC analysts and DFIR - CyberDefenders</title>",
     "errorType": "message",
     "regexCheck": "^[^\\/:*?\"<>|@]{3,50}$",
     "request_method": "GET",
     "url": "https://cyberdefenders.org/p/{}",
     "urlMain": "https://cyberdefenders.org/",
     "username_claimed": "mlohn"
-  },
+},
   "DEV Community": {
     "errorType": "status_code",
     "regexCheck": "^[a-zA-Z][a-zA-Z0-9_-]*$",
@@ -692,19 +696,6 @@
     "url": "https://www.erome.com/{}",
     "urlMain": "https://www.erome.com/",
     "username_claimed": "bob"
-  },
-  "Etsy": {
-    "errorType": "status_code",
-    "url": "https://www.etsy.com/shop/{}",
-    "urlMain": "https://www.etsy.com/",
-    "username_claimed": "JennyKrafts"
-  },
-  "Euw": {
-    "errorMsg": "This summoner is not registered at OP.GG. Please check spelling.",
-    "errorType": "message",
-    "url": "https://euw.op.gg/summoner/userName={}",
-    "urlMain": "https://euw.op.gg/",
-    "username_claimed": "blue"
   },
   "Exposure": {
     "errorType": "status_code",
@@ -1213,6 +1204,7 @@
     "username_claimed": "blue"
   },
   "Kick": {
+    "__comment__": "Cloudflare. Only viable when proxied.",
     "errorMsg": "Not Found",
     "errorType": "message",
     "url": "https://kick.com/{}",
@@ -1253,7 +1245,7 @@
   },
   "LeetCode": {
     "errorType": "status_code",
-    "url": "https://leetcode.com/{}",
+    "url": "https://leetcode.com/u/{}",
     "urlMain": "https://leetcode.com/",
     "username_claimed": "blue"
   },
@@ -1271,7 +1263,7 @@
     "username_claimed": "blue"
   },
   "LibraryThing": {
-    "errorMsg": "This user doesn't exist",
+    "errorMsg": "Catalog your books online",
     "errorType": "message",
     "url": "https://www.librarything.com/profile/{}",
     "urlMain": "https://www.librarything.com/",
@@ -2122,8 +2114,8 @@
     "errorMsg": "<div class=\"error-panel\"><span>User ",
     "errorType": "message",
     "regexCheck": "^[a-zA-Z0-9_]{1,15}$",
-    "url": "https://twitter.com/{}",
-    "urlMain": "https://twitter.com/",
+    "url": "https://x.com/{}",
+    "urlMain": "https://x.com/",
     "urlProbe": "https://nitter.net/{}",
     "username_claimed": "blue"
   },
@@ -2364,13 +2356,6 @@
     "urlMain": "https://www.youtube.com/",
     "username_claimed": "youtube"
   },
-  "Zhihu": {
-    "errorMsg": "404",
-    "errorType": "message",
-    "url": "https://www.zhihu.com/people/{}",
-    "urlMain": "https://www.zhihu.com/",
-    "username_claimed": "blue"
-  },
   "akniga": {
     "errorType": "status_code",
     "url": "https://akniga.org/profile/{}",
@@ -2475,8 +2460,7 @@
     "username_claimed": "red"
   },
   "freecodecamp": {
-    "errorMsg": "{}",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://www.freecodecamp.org/{}",
     "urlMain": "https://www.freecodecamp.org/",
     "urlProbe": "https://api.freecodecamp.org/api/users/get-public-profile?username={}",
@@ -2573,13 +2557,6 @@
     "url": "https://kwork.ru/user/{}",
     "urlMain": "https://www.kwork.ru/",
     "username_claimed": "blue"
-  },
-  "labpentestit": {
-    "errorType": "response_url",
-    "errorUrl": "https://lab.pentestit.ru/{}",
-    "url": "https://lab.pentestit.ru/profile/{}",
-    "urlMain": "https://lab.pentestit.ru/",
-    "username_claimed": "CSV"
   },
   "last.fm": {
     "errorType": "status_code",
@@ -2770,6 +2747,12 @@
     "urlMain": "https://uid.me/",
     "username_claimed": "blue"
   },
+  "Warframe Market": {
+    "errorType": "status_code",
+    "url": "https://warframe.market/profile/{}",
+    "urlMain": "https://warframe.market/",
+    "username_claimed": "AlexJuli"
+  },
   "wiki.vg": {
     "errorType": "status_code",
     "url": "https://wiki.vg/User:{}",
@@ -2789,5 +2772,11 @@
     "url": "https://www.znanylekarz.pl/{}",
     "urlMain": "https://znanylekarz.pl",
     "username_claimed": "janusz-nowak"
+  },
+  "One.lt": {
+    "errorType": "status_code",
+    "url": "https://www.one.lt/{}",
+    "urlMain": "https://www.one.lt",
+    "username_claimed": "lietuvis"
   }
 }
