@@ -1,4 +1,26 @@
-CyberDefenders
-Minecraft
-Slack
-xHamster
+APClips
+Coders Rank
+Freelance.habr
+GNOME VCS
+Giphy
+HackerEarth
+Heavy-R
+LessWrong
+LushStories
+Mydramalist
+PepperIT
+PocketStars
+Reddit
+Roblox
+RocketTube
+SlideShare
+Splice
+Spotify
+Topcoder
+Weblate
+YandexMusic
+kaskus
+nnRU
+opennet
+svidbook
+threads
