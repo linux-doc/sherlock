@@ -1,9 +1,11 @@
 APClips
 Coders Rank
+CyberDefenders
 Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
+HackerRank
 Heavy-R
 LessWrong
 LushStories
@@ -20,7 +22,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-nnRU
 opennet
 svidbook
 threads
