@@ -5,7 +5,6 @@ Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
-HackerRank
 Heavy-R
 LessWrong
 LushStories
@@ -22,6 +21,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
+xHamster
