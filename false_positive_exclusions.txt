@@ -1,9 +1,8 @@
 APClips
-GNOME VCS
+Coders Rank
 Giphy
 HackerEarth
 Heavy-R
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -19,6 +18,7 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
 threads
