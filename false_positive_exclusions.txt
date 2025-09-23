@@ -1,5 +1,6 @@
 APClips
-Coders Rank
+Carbonmade
+GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
@@ -11,14 +12,12 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
-nnRU
 opennet
 svidbook
 threads
