@@ -20,7 +20,5 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
-xHamster
