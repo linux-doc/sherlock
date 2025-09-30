@@ -1,6 +1,6 @@
 APClips
+Archive of Our Own
 Coders Rank
-CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
@@ -20,5 +20,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
