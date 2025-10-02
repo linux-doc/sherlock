@@ -1,11 +1,11 @@
 APClips
+BoardGameGeek
 Coders Rank
 CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -16,10 +16,10 @@ RocketTube
 SlideShare
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
