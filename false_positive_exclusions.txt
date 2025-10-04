@@ -1,15 +1,10 @@
 APClips
-Blogger
 BoardGameGeek
-Carbonmade
-Coders Rank
-CyberDefenders
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -23,7 +18,5 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
-xHamster
