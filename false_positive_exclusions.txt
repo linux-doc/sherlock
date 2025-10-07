@@ -16,4 +16,5 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
