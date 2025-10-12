@@ -1,9 +1,13 @@
 APClips
+Blogger
+Coders Rank
 DeviantArt
+Flipboard
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -13,5 +17,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+opennet
 svidbook
 xHamster
