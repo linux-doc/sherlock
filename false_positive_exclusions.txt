@@ -1,15 +1,14 @@
 APClips
-Blogger
 Coders Rank
-DeviantArt
-Flipboard
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
@@ -19,4 +18,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
