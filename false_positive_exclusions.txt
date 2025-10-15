@@ -1,11 +1,9 @@
 APClips
 Coders Rank
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
@@ -13,8 +11,10 @@ RocketTube
 Splice
 Spotify
 Topcoder
+TryHackMe
 Weblate
 YandexMusic
-opennet
+nnRU
+programming.dev
 svidbook
 xHamster
