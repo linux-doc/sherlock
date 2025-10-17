@@ -1,17 +1,17 @@
 APClips
-DeviantArt
+Coders Rank
+Cults3D
+GNOME VCS
 Giphy
-Heavy-R
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Strava
-Topcoder
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
 xHamster
