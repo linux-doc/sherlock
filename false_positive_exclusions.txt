@@ -7,9 +7,11 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
+opennet
 svidbook
+xHamster
