@@ -4,6 +4,7 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+LushStories
 PocketStars
 Reddit
 RocketTube
@@ -11,6 +12,7 @@ Splice
 Spotify
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook
 xHamster
