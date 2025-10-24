@@ -1,14 +1,19 @@
 APClips
+Carbonmade
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Topcoder
+Trovo
 Weblate
+Wordnik
 YandexMusic
 opennet
 svidbook
