@@ -1,4 +1,5 @@
 APClips
+CGTrader
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -7,10 +8,11 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
 Trovo
-WebNode
 Weblate
 YandexMusic
+opennet
 svidbook
