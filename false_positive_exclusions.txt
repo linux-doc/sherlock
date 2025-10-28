@@ -12,5 +12,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook
