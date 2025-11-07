@@ -1,12 +1,13 @@
 APClips
-Eintracht Frankfurt Forum
+Archive.org
+Freelancer
 GNOME VCS
 Giphy
+LiveJournal
 LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Weblate
@@ -14,4 +15,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
