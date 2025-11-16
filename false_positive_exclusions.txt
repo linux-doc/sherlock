@@ -1,11 +1,11 @@
 APClips
 Archive.org
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 Harvard Scholar
 LushStories
+Motherless
 PocketStars
 Reddit
 RocketTube
@@ -16,4 +16,3 @@ Weblate
 YandexMusic
 phpRU
 svidbook
-xHamster
