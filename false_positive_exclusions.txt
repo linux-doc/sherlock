@@ -1,19 +1,22 @@
 APClips
 Archive.org
-Audiojungle
-Coders Rank
-Freelancer
+DeviantArt
 GNOME VCS
 Giphy
+GitHub
+LushStories
 Minecraft
 PocketStars
 Reddit
 RocketTube
+Scribd
+SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-furaffinity
 opennet
+phpRU
 svidbook
 xHamster
