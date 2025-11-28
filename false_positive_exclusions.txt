@@ -1,19 +1,18 @@
 APClips
 Archive.org
-Coders Rank
-Crevado
-DEV Community
-DeviantArt
 GNOME VCS
+GeeksforGeeks
 Giphy
+Itch.io
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
