@@ -1,13 +1,15 @@
 APClips
 Archive.org
+BoardGameGeek
+Carbonmade
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
