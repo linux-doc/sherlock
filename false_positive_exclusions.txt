@@ -3,6 +3,7 @@ Archive.org
 Code Snippet Wiki
 Coders Rank
 DeviantArt
+Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -20,4 +21,3 @@ Vero
 Weblate
 YandexMusic
 svidbook
-xHamster
