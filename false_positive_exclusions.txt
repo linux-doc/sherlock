@@ -1,4 +1,5 @@
 APClips
+Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -6,9 +7,8 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
-LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Scribd
@@ -17,6 +17,7 @@ Splice
 Spotify
 Trovo
 Weblate
+YandexMusic
 opennet
 phpRU
 svidbook
