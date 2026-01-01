@@ -1,15 +1,14 @@
 APClips
 Archive.org
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
 Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Scribd
@@ -19,6 +18,5 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
