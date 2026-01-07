@@ -1,13 +1,11 @@
 APClips
 Archive.org
-Chess
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
 PocketStars
@@ -25,4 +23,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
