@@ -7,6 +7,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LemmyWorld
 LushStories
 PocketStars
 Realmeye
