@@ -3,11 +3,11 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LemmyWorld
 LushStories
 PocketStars
 Realmeye
@@ -15,6 +15,7 @@ Reddit
 RocketTube
 Scribd
 SlideShare
+Smule
 Splice
 Spotify
 Trovo
@@ -24,3 +25,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
