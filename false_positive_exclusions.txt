@@ -3,10 +3,12 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -20,6 +22,7 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
