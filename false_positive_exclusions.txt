@@ -2,13 +2,12 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
 Fandom
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
 PocketStars
 Realmeye
 Reddit
@@ -25,3 +24,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
