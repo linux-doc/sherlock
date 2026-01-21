@@ -6,9 +6,10 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
+Itch.io
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -25,4 +26,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
