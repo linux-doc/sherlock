@@ -1,12 +1,12 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
 PocketStars
@@ -25,3 +25,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
