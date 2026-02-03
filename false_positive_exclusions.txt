@@ -6,9 +6,9 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -19,10 +19,10 @@ Smule
 Splice
 Spotify
 Trovo
+TryHackMe
 Weblate
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
