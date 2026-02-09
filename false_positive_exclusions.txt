@@ -1,13 +1,12 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
-Cults3D
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 PocketStars
 Realmeye
@@ -22,6 +21,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
