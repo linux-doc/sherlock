@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cults3D
 DeviantArt
 Fandom
 GNOME VCS
@@ -9,6 +8,7 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -23,5 +23,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
