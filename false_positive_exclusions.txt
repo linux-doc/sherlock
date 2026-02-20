@@ -1,14 +1,16 @@
 APClips
 Archive.org
+Audiojungle
+Code Snippet Wiki
 DeviantArt
-Eintracht Frankfurt Forum
+GNOME VCS
 GeeksforGeeks
 Giphy
+Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -22,6 +24,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
