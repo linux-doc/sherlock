@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Code Snippet Wiki
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -10,13 +9,14 @@ LessWrong
 LushStories
 Patched
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
 Scribd
+Shelf
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
 TryHackMe
