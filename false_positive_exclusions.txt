@@ -9,7 +9,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -26,3 +25,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
