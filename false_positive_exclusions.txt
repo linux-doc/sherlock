@@ -1,5 +1,6 @@
 APClips
 Archive.org
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -12,12 +13,14 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
