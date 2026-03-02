@@ -1,9 +1,7 @@
 APClips
 Archive.org
-Blogger
 Codolio
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
@@ -26,7 +24,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
 xHamster
