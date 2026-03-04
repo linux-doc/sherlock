@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Blogger
 Codolio
 GNOME VCS
 GeeksforGeeks
@@ -24,6 +23,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
