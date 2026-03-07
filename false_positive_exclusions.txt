@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BoardGameGeek
 Codolio
 GNOME VCS
 GeeksforGeeks
@@ -16,7 +17,6 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -29,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
