@@ -5,10 +5,10 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Rarible
@@ -21,11 +21,11 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
