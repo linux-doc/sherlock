@@ -2,7 +2,6 @@ APClips
 Archive.org
 Codolio
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
