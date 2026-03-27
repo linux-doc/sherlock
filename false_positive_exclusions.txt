@@ -1,12 +1,15 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -18,11 +21,9 @@ Shelf
 SlideShare
 Smule
 Splice
-Spotify
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
 opennet
-phpRU
 svidbook
