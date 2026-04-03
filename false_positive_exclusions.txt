@@ -1,16 +1,14 @@
 7Cups
 APClips
-Academia.edu
 Archive.org
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Rarible
@@ -23,7 +21,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
