@@ -2,14 +2,18 @@
 APClips
 Archive.org
 Bandcamp
+CGTrader
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
+Itch.io
 LessWrong
-LushStories
+Minecraft
 Patched
 PocketStars
 Pornhub
@@ -23,6 +27,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -31,3 +36,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
