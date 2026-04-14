@@ -1,9 +1,10 @@
 7Cups
 APClips
+Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -13,7 +14,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -24,7 +24,9 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
