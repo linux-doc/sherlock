@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -11,6 +12,8 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Motherless
+OurDJTalk
 Patched
 PocketStars
 Rarible
