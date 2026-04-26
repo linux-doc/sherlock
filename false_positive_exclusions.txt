@@ -4,7 +4,6 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
 Discord.bio
 GeeksforGeeks
@@ -14,7 +13,7 @@ Hubski
 LessWrong
 LushStories
 Patched
-Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
