@@ -13,7 +13,6 @@ Hubski
 LessWrong
 LushStories
 Patched
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -24,6 +23,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Tenor
 TryHackMe
 Weblate
 YandexMusic
