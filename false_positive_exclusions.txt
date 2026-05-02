@@ -1,10 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -12,10 +14,11 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
-Lobsters
-Outgress
+LushStories
+Minecraft
 Patched
+Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
