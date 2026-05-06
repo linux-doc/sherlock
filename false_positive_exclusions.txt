@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -7,11 +8,11 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Fosstodon
 Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 Minecraft
 Patched
 Pornhub
@@ -31,9 +32,9 @@ Velomania
 Weblate
 YandexMusic
 dailykos
+igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
