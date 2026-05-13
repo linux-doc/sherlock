@@ -1,7 +1,7 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
+Archive.org
 Bandcamp
 Codolio
 DeviantArt
@@ -13,7 +13,6 @@ Hubski
 LessWrong
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
