@@ -1,16 +1,18 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
+Itch.io
 Motherless
 Patched
 Rarible
@@ -35,3 +37,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
