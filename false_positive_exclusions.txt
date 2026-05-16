@@ -5,16 +5,15 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
-DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 Giphy
 Hashnode
 Hubski
-Itch.io
-Motherless
+LessWrong
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,11 +24,11 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
@@ -37,4 +36,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
