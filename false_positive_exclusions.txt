@@ -5,13 +5,12 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
 Patched
 Pornhub
 Rarible
@@ -24,6 +23,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
