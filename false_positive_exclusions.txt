@@ -5,7 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -13,7 +13,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -26,7 +26,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -37,4 +36,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
+xHamster
