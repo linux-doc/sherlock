@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -14,7 +15,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -27,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
