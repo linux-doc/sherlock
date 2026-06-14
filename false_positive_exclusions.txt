@@ -6,7 +6,6 @@ Archive.org
 Bandcamp
 Codolio
 Cults3D
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -14,8 +13,8 @@ Giphy
 HackenProof (Hackers)
 Hashnode
 Hubski
+Itch.io
 LessWrong
-Minecraft
 Patched
 Rarible
 Realmeye
@@ -24,10 +23,10 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
