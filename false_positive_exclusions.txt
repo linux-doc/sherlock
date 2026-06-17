@@ -10,11 +10,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
-Minecraft
+Odysee
+OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -26,6 +26,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Tenor
 Trovo
 TryHackMe
 Velomania
