@@ -5,18 +5,18 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DEV Community
+DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
 Patched
-Rajce.net
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,7 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -40,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
