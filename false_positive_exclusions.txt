@@ -1,19 +1,19 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
 Patched
 Pornhub
@@ -27,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
