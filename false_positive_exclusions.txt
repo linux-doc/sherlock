@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -28,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
