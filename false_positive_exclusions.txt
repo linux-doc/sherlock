@@ -5,7 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -14,9 +14,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
 Odysee
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -28,7 +26,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
