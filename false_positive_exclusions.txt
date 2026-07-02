@@ -4,9 +4,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Bandcamp
 BreachSta.rs Forum
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,7 +17,6 @@ Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -38,6 +37,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 igromania
 interpals
 mercadolivre
