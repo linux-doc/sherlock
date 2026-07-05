@@ -16,6 +16,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -43,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
