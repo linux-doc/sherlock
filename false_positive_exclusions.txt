@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,7 +14,6 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 Odysee
 PCGamer
@@ -43,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
