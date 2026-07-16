@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,7 +16,6 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania
@@ -38,10 +37,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
