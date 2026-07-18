@@ -4,7 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 BreachSta.rs Forum
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -14,7 +16,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
