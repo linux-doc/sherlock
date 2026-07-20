@@ -3,8 +3,11 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
+Archive.org
 Bandcamp
 BreachSta.rs Forum
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -14,8 +17,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -40,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
