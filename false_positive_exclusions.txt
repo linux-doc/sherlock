@@ -3,11 +3,8 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
-BreachSta.rs Forum
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -32,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -45,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
