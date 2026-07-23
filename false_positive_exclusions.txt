@@ -11,12 +11,14 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
+HackerRank
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -28,7 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Strava
 Trovo
 TryHackMe
 Velomania
@@ -36,10 +38,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
