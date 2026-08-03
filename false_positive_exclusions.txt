@@ -22,13 +22,12 @@ LessWrong
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -46,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
