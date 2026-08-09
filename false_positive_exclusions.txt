@@ -19,6 +19,7 @@ Houzz
 Hubski
 Instapaper
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -33,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania
@@ -40,10 +42,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+dcinside
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
