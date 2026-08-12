@@ -17,10 +17,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+Itch.io
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,8 +33,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
-Trakt
 Trovo
 TryHackMe
 Velomania
