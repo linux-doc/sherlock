@@ -4,9 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -33,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania
