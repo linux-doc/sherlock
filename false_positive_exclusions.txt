@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -17,10 +18,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
+Minecraft
 Odysee
 PCGamer
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -32,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania
@@ -44,7 +46,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
