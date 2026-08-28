@@ -15,13 +15,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -30,10 +29,13 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
