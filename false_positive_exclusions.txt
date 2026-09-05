@@ -8,20 +8,22 @@ Blogger
 BoardGameGeek
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
+Odysee
 PCGamer
-Rarible
+Pornhub
 Realmeye
 Reddit
 ReverbNation
@@ -31,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -45,4 +48,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
