@@ -4,8 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
@@ -15,6 +13,7 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Houzz
 Hubski
@@ -24,6 +23,7 @@ ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Rarible
 Realmeye
 Reddit
 ReverbNation
