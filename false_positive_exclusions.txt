@@ -1,15 +1,13 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
+Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
-ChaturBate
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -20,11 +18,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -52,4 +48,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
