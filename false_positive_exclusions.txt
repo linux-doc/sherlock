@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -20,6 +21,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -37,7 +39,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
