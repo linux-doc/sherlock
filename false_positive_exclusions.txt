@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,9 +8,11 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -19,10 +22,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
-NationStates Nation
-NationStates Region
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -30,7 +31,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
@@ -50,3 +50,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
