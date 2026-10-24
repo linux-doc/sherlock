@@ -12,7 +12,6 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -23,19 +22,22 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -50,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
