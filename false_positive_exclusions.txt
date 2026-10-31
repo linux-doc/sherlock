@@ -19,7 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -31,6 +33,7 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+Snapchat
 Splice
 Spotify
 Trakt
@@ -41,11 +44,9 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
