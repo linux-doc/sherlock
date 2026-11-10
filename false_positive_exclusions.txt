@@ -5,7 +5,6 @@ Archive.org
 Championat
 Chatujme.cz
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -14,22 +13,20 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
-Outgress
 PCGamer
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
