@@ -3,20 +3,22 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
+Cplusplus
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+GitHub
 HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -44,4 +46,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
