@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,9 +12,8 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 Linktree
-LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -29,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -43,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
