@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,6 +16,7 @@ Hubski
 Instapaper
 Linktree
 ObservableHQ
+Odysee
 PCGamer
 Rarible
 Realmeye
@@ -31,7 +33,6 @@ TryHackMe
 Velomania
 Vero
 Wikipedia
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -43,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
